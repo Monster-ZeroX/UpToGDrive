@@ -3,11 +3,11 @@ class config:
     APP_ID = ""
     API_HASH = ""
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "1204360944" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "FZBOTS"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "u5a1CSY5pNjdD2tGTU93TTnI"
 
 
 class BotCommands:
